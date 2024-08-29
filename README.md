@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer Science Student
+Student Professional Worker for LA County
+Learning Focus: Python, C++
+Pronouns: He/Him
+
