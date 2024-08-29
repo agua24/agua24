@@ -18,4 +18,7 @@ Computer Science Student
 Student Professional Worker for LA County
 Learning Focus: Python, C++
 Pronouns: He/Him
+Hobbies: Movies, Sports, Music, and Videogames :)
+
+Work Experience : Junior Web Developer, Student Professional Worker IT
 
